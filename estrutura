@@ -1,0 +1,8 @@
+car-finder/
+ ├── api/
+ │    ├── index.py        ← API principal (scraping, rotas)
+ │    ├── scraper.py      ← Lógica de busca
+ │    └── utils.py        ← Funções auxiliares
+ ├── requirements.txt
+ ├── vercel.json
+ └── README.md
